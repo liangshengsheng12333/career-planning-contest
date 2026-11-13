@@ -1,0 +1,51 @@
+# User's personal competition submissions and local build scripts
+生涯发展报告_*
+答辩路演PPT*
+平台填报信息*
+第二课堂认证*
+学生操作手册*
+charts/
+pdf_preview/
+build_pdf.py
+build_report_text.py
+generate_charts.py
+render_preview.py
+verify_pdf.py
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Virtual Environment
+venv/
+ENV/
+
+# IDE & OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Scratch and intermediate logs
+test_*.py
+check_fonts.py
+*.log
